@@ -1,6 +1,6 @@
 <h1>𝙒𝙝𝙚𝙖𝙩𝙚𝙧 𝙖𝙥𝙥!</h1>
 
-maked whit js, an api, change the background on temperature!
+maked whit  React js, an Api, change the background on temperature!
 
 Live demo here! https://idyllic-selkie-9f5c1d.netlify.app
 
